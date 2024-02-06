@@ -1,0 +1,3 @@
+In this homework, I did a random question about from 1-10 how much do you love cat? However, it’s a question for the computers since I use random number picking in this one. I use a variable in default name, then I set it to a random number from 1 to 10. If my variable is above 6, then I will treat it as a pass for this question , then I will play the sound of meow. However, if it’s smaller than 6, that means you didn’t pass. I use a if else control to do that . I record a NO sound, that will play after the result is lower than 6. 
+
+During the homework, I got some issues. First is that I don’t know how to say my variable out so I can actually know what’s the number of it. Then I realize I could drag the variable block straight into the say section. 
